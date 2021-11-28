@@ -7,8 +7,6 @@ https://user-images.githubusercontent.com/12000894/143773483-48be032e-0369-49de-
  
 A nice project we did around April 2016 as a final project for the Introduction to Artificial Intelligence (67842) course.
 
-![Image of the game board](https://raw.githubusercontent.com/AvivYaish/KhetAI/master/gameImg.png)
-
 
 ### Introduction
 
@@ -77,7 +75,6 @@ Performing the optimizations takes a very long time, so we were able to make onl
 - A computer can optimize the heuristic weights better than a human can - one optimization run by each optimization algorithm produced a better result than our hand tuned weights for the regular alpha-beta search.
 - Regular alpha-beta tree search benefits from optimizing with a large generation/steps count.
 - Our best agent (the white player) is much better than the default agent supplied with the SDK (the red player):
-https://player.vimeo.com/video/160518543
 
 
 ### Additional Information
