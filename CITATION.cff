@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Yaish"
+  given-names: "Aviv"
+  orcid: "https://orcid.org/0000-0002-7971-2494"
+- family-names: "Zagury"
+  given-names: "Adir"
+title: "Optimizing Alpha-beta-based Khet Agents"
+version: 1
+doi: 10.13140/RG.2.2.31258.16325
+date-released: 2016-04-01
+url: "https://github.com/AvivYaish/KhetAI"
