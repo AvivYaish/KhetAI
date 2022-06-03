@@ -1,5 +1,5 @@
 # KhetAI
-Alpha beta based Khet agents and their optimizations, by Adir Zagury and Aviv Yaish
+Alpha beta based Khet agents and their optimizations, by Aviv Yaish and Adir Zagury
 
 
 https://user-images.githubusercontent.com/12000894/143773483-48be032e-0369-49de-aecf-7df0e2dcdae1.mp4
