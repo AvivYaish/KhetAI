@@ -6,7 +6,7 @@ authors:
   orcid: "https://orcid.org/0000-0002-7971-2494"
 - family-names: "Zagury"
   given-names: "Adir"
-title: "Optimizing Alpha-beta-based Khet Agents"
+title: "Alpha beta based Khet agents and their optimizations"
 version: 1
 doi: 10.13140/RG.2.2.31258.16325
 date-released: 2016-04-01
