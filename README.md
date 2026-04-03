@@ -4,9 +4,6 @@ By Aviv Yaish and Adir Zagury
 
 https://user-images.githubusercontent.com/12000894/143773483-48be032e-0369-49de-aecf-7df0e2dcdae1.mp4
 
- 
-A nice project we did around April 2016 as a final project for the Introduction to Artificial Intelligence (67842) course.
-
 
 ### Introduction
 
